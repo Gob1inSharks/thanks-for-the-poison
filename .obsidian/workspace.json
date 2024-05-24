@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/log/052024.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/log/052024.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/log/052024.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/log/052024.md"
+                "file": "README.md"
               }
             }
           }
@@ -148,13 +148,13 @@
   },
   "active": "1c24ddc1d83c8338",
   "lastOpenFiles": [
+    "icon.svg",
+    "docs/log/052024.md",
+    "README.md",
     "icon.svg.import",
     "icon.svg.import-lURpG8",
     "project.godot-yE19yf",
-    "icon.svg",
     "project.godot",
-    "README.md",
-    "docs/log/052024.md",
     "docs/log"
   ]
 }
