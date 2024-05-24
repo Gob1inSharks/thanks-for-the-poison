@@ -1,2 +1,3 @@
-# thanks-for-the-poison
-T4TP: rogue-like shoot-em up
+# Thanks for the Poison
+
+rogue-like shoot-em up in a flesh dungeon
