@@ -1,3 +1,3 @@
-# Thanks for the Poison
+# THANKS FOR THE POISON
 
-rogue-like shoot-em up in a flesh dungeon
+A ROGUE-LIKE SHOOT-EM-UP IN A **FLESH** DUNGEON
